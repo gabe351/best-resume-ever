@@ -521,7 +521,7 @@ birth:
   location: New York
 
 experience:
-- company: Company A
+- company: Company Mopa
   position: Developer
   timeperiod: since January 2016
   description: Programming and watching cute cat videos.
@@ -549,7 +549,7 @@ education:
 
 # skill level goes 0 to 100
 skills:
-- name: HTML5
+- name: SWIFT
   level: 99
 - name: CSS3
   level: 95
